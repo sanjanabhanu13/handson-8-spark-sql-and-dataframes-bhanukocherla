@@ -223,9 +223,17 @@ A ranked list of the most-used hashtags and their frequencies.
 
 | Hashtag     | Count |
 |-------------|-------|
-| #tech       | 120   |
-| #mood       | 98    |
-| #design     | 85    |
+| #mood       | 120   |
+| #innovation |  1    |
+| #cleanUI    |  85   |
+| #tech       |  1    |
+| #design     |  1    |
+| #fail|      |   1   |
+| #bug        |   1   |  
+
+
+
+
 
 ---
 
@@ -245,11 +253,11 @@ A summary of user engagement behavior categorized by age group.
 
 **Example Output:**
 
-| Age Group | Avg Likes | Avg Retweets |
-|-----------|-----------|--------------|
-| Adult     | 67.3      | 25.2         |
-| Teen      | 22.0      | 5.6          |
-| Senior    | 9.2       | 1.3          |
+| Age Group | Avg Likes             |  Avg Retweets      |
+|-----------|-----------            |  -------------     |
+| Adult     |   65.66666666666667   | 21.666666666666668 |
+| Teen      | 15.0                  | 3.0                |
+| Senior    | 5.0                   | 1.0                |
 
 ---
 
@@ -270,9 +278,9 @@ Insights into whether happier or angrier posts get more attention.
 
 | Sentiment | Avg Likes | Avg Retweets |
 |-----------|-----------|--------------|
-| Positive  | 85.6      | 32.3         |
-| Neutral   | 27.1      | 10.4         |
-| Negative  | 13.6      | 4.7          |
+| Positive  | 97.5      |  32.5        |
+| Neutral   | 15.0      | 3.0          |
+| Negative  | 3.5       | 0.5          |
 
 ---
 
@@ -294,8 +302,8 @@ A leaderboard of verified users based on audience engagement.
 
 | Username       | Total Reach |
 |----------------|-------------|
-| @techie42      | 1650        |
-| @designer_dan  | 1320        |
+| @techie42      | 165         |
+| @designer_dan  | 95          |
 
 ---
 
